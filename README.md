@@ -1,2 +1,2 @@
 # githubTest
-"""This is a test for github tutorial to check if it works to commit"""
+"""This is a test for the GitHub tutorial taught by Rosa to make sure committing works"""
